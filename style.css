@@ -490,7 +490,7 @@ footer li {
   }
   .hero {
     position: relative;
-    background: url('img/bg5.jgp') no-repeat center center fixed;
+    background: url('img/bg5.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 100vh; /* Sesuaikan tinggi sesuai kebutuhan */
 }
